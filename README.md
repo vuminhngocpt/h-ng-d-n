@@ -15,4 +15,6 @@ các dữ liệu của tôi sẽ được lưu và đọc như sau :
     <img src="https://i.imgur.com/yDqcNKS.jpeg">
 </body>
 </html>
-các bạn có thể thấy tên đăng nhập của tôi và phần dữ liệu tôi đã demo 
+các bạn có thể thấy tên đăng nhập của tôi và phần dữ liệu tôi đã demo ( phần được khoanh ô mầu đỏ bao gồm tên đăng nhập và đoan văn bản hoặc tệp được chúng tôi tạo ra 
+
+đối với tệp tin chúng tôi chia sẻ bạn cần tài khoản để tải về đôi khi cần app ( ứng dụng để có thể tải tệp tin chúng tôi chia sẻ về máy ) 
